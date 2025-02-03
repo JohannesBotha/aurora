@@ -1,6 +1,7 @@
 "use server";
 
 export async function submitForm(prevState: any, formData: FormData) {
+  
   try {
     const response = await fetch("https://api.web3forms.com/submit", {
       method: "POST",

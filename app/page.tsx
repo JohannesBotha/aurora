@@ -1,6 +1,6 @@
-import Image from "next/image";
 
-import { benefitOne, benefitTwo, CardOne } from "@/app/comp/data";
+
+import { benefitOne, benefitTwo} from "@/app/comp/data";
 import { Benefits } from "./comp/benefits";
 import { Cta } from "./comp/cta";
 import { FeatureList } from "./comp/featurelist";

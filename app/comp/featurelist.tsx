@@ -10,6 +10,7 @@ interface FeatureListProps {
   subTitle?: string;
   image: any;
   features: any;
+  menu:any
 }
 export function FeatureList(props: Readonly<FeatureListProps>) {
   return (

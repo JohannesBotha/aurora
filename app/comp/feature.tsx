@@ -4,14 +4,9 @@
 }
 import React from "react";
 
-import Link from "next/link";
 import Image from "next/image";
-import FeatureImage from "@/public/img/the-sun.jpg";
 
-const features = ["Item1", "Item2", "Item3"];
-const title = "Title Text";
-const description = "Description Text";
-const subTitle = "Subtitle Text";
+
 
 export function FeatureT() {
   return (
