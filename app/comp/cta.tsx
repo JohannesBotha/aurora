@@ -7,11 +7,7 @@
 import React from "react";
 import Link from "next/link";
 
-interface CtaProps {
-  className?: string;
-  title: string;
-  description: string;
-}
+
 
 export function Cta() {
   return (

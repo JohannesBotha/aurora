@@ -6,7 +6,7 @@
   Parents: Navbar, MobileMenu, Footer*/
 }
 import Link from "next/link";
-import Image from "next/image";
+
 
 interface NavProps {
   listFormat?: string;

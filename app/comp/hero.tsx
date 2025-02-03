@@ -7,7 +7,7 @@
   
   */
 }
-import heroImg from "@/public/img/the-sun.jpg";
+
 import Image from "next/image";
 
 import Link from "next/link";

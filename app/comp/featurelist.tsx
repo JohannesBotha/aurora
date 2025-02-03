@@ -1,12 +1,8 @@
 import React from "react";
 
-import Link from "next/link";
+
 import Image from "next/image";
 
-const features = ["Item1", "Item2", "Item3"];
-const title = "Title Text";
-const description = "Description Text";
-const subTitle = "Subtitle Text";
 
 interface FeatureListProps {
   title?: string;
